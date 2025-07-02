@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Flask/Django Web Applications**
 - 🌱 I’m learning **FastAPI, Docker, and CI/CD**
-- 👨‍💻 Portfolio: [your-portfolio-link](https://yourwebsite.com)
+- 👨‍💻 Portfolio: (https://portfolio-harsh.vercel.app.com)
 - 💬 Ask me about **Python, Flask, Django, REST APIs, JavaScript**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **harshithagowdahg2000.@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real-world applications 🌍
 
 ---
